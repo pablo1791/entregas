@@ -1,0 +1,20 @@
+# depslib dependency file v1.0
+1504666216 source:c:\users\pablo.sebastian\documents\entregas\tp1\calculadora\operacionesmatematicas.c
+	<stdio.h>
+	<stdlib.h>
+	"validar.h"
+
+1504666410 source:c:\users\pablo.sebastian\documents\entregas\tp1\calculadora\main.c
+	<stdio.h>
+	<stdlib.h>
+	"validar.h"
+	"operacionesMatematicas.h"
+
+1504651335 source:c:\users\pablo.sebastian\documents\entregas\tp1\calculadora\validar.c
+	<stdio.h>
+	<stdlib.h>
+
+1504651352 c:\users\pablo.sebastian\documents\entregas\tp1\calculadora\validar.h
+
+1504666216 c:\users\pablo.sebastian\documents\entregas\tp1\calculadora\operacionesmatematicas.h
+

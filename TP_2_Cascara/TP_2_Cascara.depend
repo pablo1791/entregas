@@ -1,0 +1,24 @@
+# depslib dependency file v1.0
+1506037847 source:c:\users\pablo.sebastian\downloads\tp_2_cascara\tp_2_cascara\main.c
+	<stdio.h>
+	<stdlib.h>
+	"funciones.h"
+	"validaciones.h"
+
+1506037045 c:\users\pablo.sebastian\downloads\tp_2_cascara\tp_2_cascara\funciones.h
+
+1506037654 source:c:\users\pablo.sebastian\downloads\tp_2_cascara\tp_2_cascara\funciones.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"validaciones.h"
+	"funciones.h"
+
+1505778331 c:\users\pablo.sebastian\downloads\tp_2_cascara\tp_2_cascara\validaciones.h
+
+1506038041 source:c:\users\pablo.sebastian\downloads\tp_2_cascara\tp_2_cascara\validaciones.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"validaciones.h"
+

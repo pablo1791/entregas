@@ -1,0 +1,97 @@
+# depslib dependency file v1.0
+1508360627 source:c:\users\pablo.sebastian\downloads\tp_3_cascara\tp_3_cascara\funciones.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"funciones.h"
+	"validar.h"
+
+1508360248 source:c:\users\pablo.sebastian\downloads\tp_3_cascara\tp_3_cascara\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"funciones.h"
+	"validar.h"
+
+1508293576 c:\users\pablo.sebastian\downloads\tp_3_cascara\tp_3_cascara\funciones.h
+
+1507996307 source:c:\users\pablo.sebastian\downloads\tp_3_cascara\tp_3_cascara\validar.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"validar.h"
+
+1507807776 c:\users\pablo.sebastian\downloads\tp_3_cascara\tp_3_cascara\validar.h
+
+1508452648 source:e:\tp_3_cascara\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"funciones.h"
+	"validar.h"
+
+1508452648 e:\tp_3_cascara\funciones.h
+
+1507807778 e:\tp_3_cascara\validar.h
+
+1507996308 source:e:\tp_3_cascara\validar.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"validar.h"
+
+1508451988 source:e:\tp_3_cascara\funciones.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"funciones.h"
+	"validar.h"
+
+1507996308 source:d:\campospablo\tp_3_cascara\validar.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"validar.h"
+
+1507807778 d:\campospablo\tp_3_cascara\validar.h
+
+1508457262 source:d:\campospablo\tp_3_cascara\funciones.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"funciones.h"
+	"validar.h"
+
+1508457090 d:\campospablo\tp_3_cascara\funciones.h
+
+1508457116 source:d:\campospablo\tp_3_cascara\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"funciones.h"
+	"validar.h"
+
+1508813013 source:c:\users\pablo.sebastian\desktop\tp_3_cascara\funciones.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"funciones.h"
+	"validar.h"
+
+1508457092 c:\users\pablo.sebastian\desktop\tp_3_cascara\funciones.h
+
+1507807778 c:\users\pablo.sebastian\desktop\tp_3_cascara\validar.h
+
+1508812745 source:c:\users\pablo.sebastian\desktop\tp_3_cascara\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"funciones.h"
+	"validar.h"
+
+1508809038 source:c:\users\pablo.sebastian\desktop\tp_3_cascara\validar.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"validar.h"
+
